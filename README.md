@@ -7,7 +7,6 @@ The program uses the re library to split the sentences, and the nltk.download fu
 
 
 Assumptions:
-
 The file tweets.txt contains one tweet per line.
 The racial slurs are provided as a list of strings, and each slur is a separate word.
 The degree of profanity is defined as the length of the matched racial slur.
